@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Outputs (ignore large files)
+data/raw/
+data/processed/
+data/predictions/
+output/
+
+# Ignore virtual environments if added later
+venv/
+.venv/
+env/
+.env/
+
+# Mac OS
+.DS_Store
